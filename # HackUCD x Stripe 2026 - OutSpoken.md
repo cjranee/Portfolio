@@ -1,6 +1,6 @@
 # HackUCD x Stripe 2026 — OutSpoken
 
-Speech coaching for creators to remove heuristics from their speech
+Speech coaching for creators to remove disfluencies from their speech
 
 ## Live Project
 
